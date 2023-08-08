@@ -1,0 +1,15 @@
+C:\Dev\C# Practice\PracticeCode\PracticeCode\bin\Debug\net7.0\PracticeCode.exe
+C:\Dev\C# Practice\PracticeCode\PracticeCode\bin\Debug\net7.0\PracticeCode.deps.json
+C:\Dev\C# Practice\PracticeCode\PracticeCode\bin\Debug\net7.0\PracticeCode.runtimeconfig.json
+C:\Dev\C# Practice\PracticeCode\PracticeCode\bin\Debug\net7.0\PracticeCode.dll
+C:\Dev\C# Practice\PracticeCode\PracticeCode\bin\Debug\net7.0\PracticeCode.pdb
+C:\Dev\C# Practice\PracticeCode\PracticeCode\obj\Debug\net7.0\PracticeCode.csproj.AssemblyReference.cache
+C:\Dev\C# Practice\PracticeCode\PracticeCode\obj\Debug\net7.0\PracticeCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C# Practice\PracticeCode\PracticeCode\obj\Debug\net7.0\PracticeCode.AssemblyInfoInputs.cache
+C:\Dev\C# Practice\PracticeCode\PracticeCode\obj\Debug\net7.0\PracticeCode.AssemblyInfo.cs
+C:\Dev\C# Practice\PracticeCode\PracticeCode\obj\Debug\net7.0\PracticeCode.csproj.CoreCompileInputs.cache
+C:\Dev\C# Practice\PracticeCode\PracticeCode\obj\Debug\net7.0\PracticeCode.dll
+C:\Dev\C# Practice\PracticeCode\PracticeCode\obj\Debug\net7.0\refint\PracticeCode.dll
+C:\Dev\C# Practice\PracticeCode\PracticeCode\obj\Debug\net7.0\PracticeCode.pdb
+C:\Dev\C# Practice\PracticeCode\PracticeCode\obj\Debug\net7.0\PracticeCode.genruntimeconfig.cache
+C:\Dev\C# Practice\PracticeCode\PracticeCode\obj\Debug\net7.0\ref\PracticeCode.dll

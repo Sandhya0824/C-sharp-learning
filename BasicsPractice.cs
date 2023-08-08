@@ -1,3 +1,4 @@
+
 ﻿namespace C_Learning
 {
     public enum Colors
@@ -63,4 +64,5 @@
             
         }
     }
+>>>>>>> b4700c74e27fe482e75f6312bec6825ad1388a94
 }
