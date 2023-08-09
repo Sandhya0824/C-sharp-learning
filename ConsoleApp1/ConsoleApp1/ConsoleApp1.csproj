@@ -3,10 +3,8 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net7.0</TargetFramework>
-    <RootNamespace>C_SharpLearning</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>C_SharpLearning.OutParameter</StartupObject>
   </PropertyGroup>
 
 </Project>
