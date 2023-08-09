@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\MRA572\\.nuget\\packages\\": {}
+    "C:\\Users\\SRA955\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitHub\\Interns.Maersk.Git\\C-sharp-learning\\C#_Basics\\C#_Basics.csproj",
+      "projectUniqueName": "C:\\GitHubInterns\\C-sharp-learning\\C#_Basics\\C#_Basics.csproj",
       "projectName": "C#_Basics",
-      "projectPath": "C:\\GitHub\\Interns.Maersk.Git\\C-sharp-learning\\C#_Basics\\C#_Basics.csproj",
-      "packagesPath": "C:\\Users\\MRA572\\.nuget\\packages\\",
-      "outputPath": "C:\\GitHub\\Interns.Maersk.Git\\C-sharp-learning\\C#_Basics\\obj\\",
+      "projectPath": "C:\\GitHubInterns\\C-sharp-learning\\C#_Basics\\C#_Basics.csproj",
+      "packagesPath": "C:\\Users\\SRA955\\.nuget\\packages\\",
+      "outputPath": "C:\\GitHubInterns\\C-sharp-learning\\C#_Basics\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\MRA572\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\SRA955\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
