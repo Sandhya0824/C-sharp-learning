@@ -6,10 +6,7 @@ using System.Threading.Tasks;
 
 namespace C_SharpLearning
 {
-    public enum Colors
-    {
-        blue, green = 5, red
-    }
+   
     internal class IfElse
     {
         public static void Main(string[] args)
@@ -40,33 +37,6 @@ namespace C_SharpLearning
             {
                 Console.WriteLine("Not eligble in any Group for now!!!");
             }
-
-            int k = 0;
-            change(out k);
-            Console.WriteLine(k);
-        }
-
-
-
-        public static void change(out int a)
-        {
-            a = 5;
-
-        }
-
-        public static void arr(int[] a)
-        {
-            int[] a1 = new int[3];
-            int[,] a2 = new int[3, 4];
-            int[][] a3 = new int[3][];
-
-            int[][] a4 = new int[3][]
-            {
-                new int[] {2,3,4},
-                new int[] {2,3,4,5},
-                new int[] {2,3,4,6},
-            };
-
 
         }
 
