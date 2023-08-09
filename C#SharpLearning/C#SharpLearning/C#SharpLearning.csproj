@@ -6,7 +6,7 @@
     <RootNamespace>C_SharpLearning</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>C_SharpLearning.OutParameter</StartupObject>
+    <StartupObject>C_SharpLearning.ClassAndObjects</StartupObject>
   </PropertyGroup>
 
 </Project>

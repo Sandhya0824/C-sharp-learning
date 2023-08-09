@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\C# Practice\\PracticeCode\\PracticeCode\\PracticeCode.csproj",
+      "projectUniqueName": "C:\\GitHubInterns\\C-sharp-learning\\PracticeCode\\PracticeCode.csproj",
       "projectName": "PracticeCode",
-      "projectPath": "C:\\Dev\\C# Practice\\PracticeCode\\PracticeCode\\PracticeCode.csproj",
+      "projectPath": "C:\\GitHubInterns\\C-sharp-learning\\PracticeCode\\PracticeCode.csproj",
       "packagesPath": "C:\\Users\\SRA955\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\C# Practice\\PracticeCode\\PracticeCode\\obj\\",
+      "outputPath": "C:\\GitHubInterns\\C-sharp-learning\\PracticeCode\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SRA955\\AppData\\Roaming\\NuGet\\NuGet.Config",

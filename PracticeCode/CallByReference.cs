@@ -10,7 +10,7 @@ namespace PracticeCode
     {
         public void Demo(ref int message)
         {
-            message *= 2;
+            message = 2;
         }
 
         static void Main(string[] args)
