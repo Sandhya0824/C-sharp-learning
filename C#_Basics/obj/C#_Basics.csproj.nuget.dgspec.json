@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AKU628\\OneDrive - Maersk Group\\Desktop\\C#_Basics\\C#_Basics\\C#_Basics.csproj": {}
+    "C:\\Dev\\C#_Basics\\C-sharp-learning\\C#_Basics\\C#_Basics.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AKU628\\OneDrive - Maersk Group\\Desktop\\C#_Basics\\C#_Basics\\C#_Basics.csproj": {
+    "C:\\Dev\\C#_Basics\\C-sharp-learning\\C#_Basics\\C#_Basics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AKU628\\OneDrive - Maersk Group\\Desktop\\C#_Basics\\C#_Basics\\C#_Basics.csproj",
+        "projectUniqueName": "C:\\Dev\\C#_Basics\\C-sharp-learning\\C#_Basics\\C#_Basics.csproj",
         "projectName": "C#_Basics",
-        "projectPath": "C:\\Users\\AKU628\\OneDrive - Maersk Group\\Desktop\\C#_Basics\\C#_Basics\\C#_Basics.csproj",
+        "projectPath": "C:\\Dev\\C#_Basics\\C-sharp-learning\\C#_Basics\\C#_Basics.csproj",
         "packagesPath": "C:\\Users\\AKU628\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AKU628\\OneDrive - Maersk Group\\Desktop\\C#_Basics\\C#_Basics\\obj\\",
+        "outputPath": "C:\\Dev\\C#_Basics\\C-sharp-learning\\C#_Basics\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AKU628\\AppData\\Roaming\\NuGet\\NuGet.Config",
