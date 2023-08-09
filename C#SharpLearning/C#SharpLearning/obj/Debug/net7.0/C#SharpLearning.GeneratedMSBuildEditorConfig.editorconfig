@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = C_SharpLearning
-build_property.ProjectDir = C:\GitHub\Interns.Maersk.Git\C-sharp-learning\C#SharpLearning\C#SharpLearning\
+build_property.ProjectDir = C:\Dev\C#_Basics\C-sharp-learning\C#SharpLearning\C#SharpLearning\

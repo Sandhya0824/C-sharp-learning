@@ -13,3 +13,18 @@ C:\Dev\C# Practice\PracticeCode\PracticeCode\obj\Debug\net7.0\refint\PracticeCod
 C:\Dev\C# Practice\PracticeCode\PracticeCode\obj\Debug\net7.0\PracticeCode.pdb
 C:\Dev\C# Practice\PracticeCode\PracticeCode\obj\Debug\net7.0\PracticeCode.genruntimeconfig.cache
 C:\Dev\C# Practice\PracticeCode\PracticeCode\obj\Debug\net7.0\ref\PracticeCode.dll
+C:\GitHubInterns\C-sharp-learning\PracticeCode\bin\Debug\net7.0\PracticeCode.exe
+C:\GitHubInterns\C-sharp-learning\PracticeCode\bin\Debug\net7.0\PracticeCode.deps.json
+C:\GitHubInterns\C-sharp-learning\PracticeCode\bin\Debug\net7.0\PracticeCode.runtimeconfig.json
+C:\GitHubInterns\C-sharp-learning\PracticeCode\bin\Debug\net7.0\PracticeCode.dll
+C:\GitHubInterns\C-sharp-learning\PracticeCode\bin\Debug\net7.0\PracticeCode.pdb
+C:\GitHubInterns\C-sharp-learning\PracticeCode\obj\Debug\net7.0\PracticeCode.csproj.AssemblyReference.cache
+C:\GitHubInterns\C-sharp-learning\PracticeCode\obj\Debug\net7.0\PracticeCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHubInterns\C-sharp-learning\PracticeCode\obj\Debug\net7.0\PracticeCode.AssemblyInfoInputs.cache
+C:\GitHubInterns\C-sharp-learning\PracticeCode\obj\Debug\net7.0\PracticeCode.AssemblyInfo.cs
+C:\GitHubInterns\C-sharp-learning\PracticeCode\obj\Debug\net7.0\PracticeCode.csproj.CoreCompileInputs.cache
+C:\GitHubInterns\C-sharp-learning\PracticeCode\obj\Debug\net7.0\PracticeCode.dll
+C:\GitHubInterns\C-sharp-learning\PracticeCode\obj\Debug\net7.0\refint\PracticeCode.dll
+C:\GitHubInterns\C-sharp-learning\PracticeCode\obj\Debug\net7.0\PracticeCode.pdb
+C:\GitHubInterns\C-sharp-learning\PracticeCode\obj\Debug\net7.0\PracticeCode.genruntimeconfig.cache
+C:\GitHubInterns\C-sharp-learning\PracticeCode\obj\Debug\net7.0\ref\PracticeCode.dll
