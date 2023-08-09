@@ -17,7 +17,6 @@ namespace C_SharpLearning
         public static void Main(String[] args)
         {
             int t;      //not initialized
-          //  Console.WriteLine("Value Before Out Parameter: {0} ", t);
             OutParameter obj3 = new OutParameter();
             obj3.outParameter(out t);
             Console.WriteLine("Value After Out Parameter: {0} ", t);

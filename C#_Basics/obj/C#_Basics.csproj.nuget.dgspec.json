@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AKU628\\OneDrive - Maersk Group\\Desktop\\C#_Basics\\C#_Basics\\C#_Basics.csproj": {}
+    "C:\\GitHub\\Interns.Maersk.Git\\C-sharp-learning\\C#_Basics\\C#_Basics.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AKU628\\OneDrive - Maersk Group\\Desktop\\C#_Basics\\C#_Basics\\C#_Basics.csproj": {
+    "C:\\GitHub\\Interns.Maersk.Git\\C-sharp-learning\\C#_Basics\\C#_Basics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AKU628\\OneDrive - Maersk Group\\Desktop\\C#_Basics\\C#_Basics\\C#_Basics.csproj",
+        "projectUniqueName": "C:\\GitHub\\Interns.Maersk.Git\\C-sharp-learning\\C#_Basics\\C#_Basics.csproj",
         "projectName": "C#_Basics",
-        "projectPath": "C:\\Users\\AKU628\\OneDrive - Maersk Group\\Desktop\\C#_Basics\\C#_Basics\\C#_Basics.csproj",
-        "packagesPath": "C:\\Users\\AKU628\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AKU628\\OneDrive - Maersk Group\\Desktop\\C#_Basics\\C#_Basics\\obj\\",
+        "projectPath": "C:\\GitHub\\Interns.Maersk.Git\\C-sharp-learning\\C#_Basics\\C#_Basics.csproj",
+        "packagesPath": "C:\\Users\\MRA572\\.nuget\\packages\\",
+        "outputPath": "C:\\GitHub\\Interns.Maersk.Git\\C-sharp-learning\\C#_Basics\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\AKU628\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MRA572\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }
