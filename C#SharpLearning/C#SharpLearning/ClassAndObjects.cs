@@ -32,6 +32,7 @@
             Student student = new Student();
             student.setDetails(1, "Ram");
             student.display();  
+
         }
 
        
