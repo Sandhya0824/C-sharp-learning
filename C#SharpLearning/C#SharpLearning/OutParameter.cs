@@ -14,6 +14,7 @@ namespace C_SharpLearning
             return a;
         }
 
+
         public static void Main(String[] args)
         {
             int t;      //not initialized

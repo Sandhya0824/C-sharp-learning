@@ -7,11 +7,16 @@
 
         public static string School = "Kendriya Vidyalaya";
 
+        public Student() { Console.WriteLine("Default Constructor"); }
+        
+        
         public void setDetails(int id, string name)
         {
             Id = id;
             Name = name;
         }
+
+        ~Student() { Console.WriteLine("Default Destructor"); }
 
         public void display() 
         {
