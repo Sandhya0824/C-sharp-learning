@@ -7,13 +7,15 @@
 
         public static string School = "Kendriya Vidyalaya";
 
-        public Student() { Console.WriteLine("Default Constructor"); }
-        
+        public static int count=0;
+
+        public Student() { Console.WriteLine("Default Constructor"); count++; }  //default constructor
         
         public void setDetails(int id, string name)
         {
             Id = id;
             Name = name;
+          
         }
 
         ~Student() { Console.WriteLine("Default Destructor"); }
@@ -29,10 +31,20 @@
     {
         static void Main(string[] args)
         {
-            Student student = new Student();
-            student.setDetails(1, "Ram");
-            student.display();  
+            Student s1 = new Student();
+            s1.setDetails(1, "Ram");
+            s1.display();
 
+            Student s2 = new Student();
+            s2.setDetails(2, "Sita");
+            s2.display();
+
+            Student s3 = new Student();
+            s3 = s1;
+            s3= s2;
+            s3.display();
+
+            Console.WriteLine("No. of students: " + Student.count);
         }
 
        
