@@ -18,7 +18,12 @@ namespace C_SharpLearning
                 new int[] { 7 }
             };
 
-            printArray(a);      //printitng jagged array
+            //   printArray(a);      //printitng jagged array
+
+            int[,] b = new int[3,4];
+
+            Console.WriteLine(b.Length);
+            Console.WriteLine(b.Rank);
 
             printArray();
         }
