@@ -41,7 +41,7 @@
 
             Student s3 = new Student();
             s3 = s1;
-            s3= s2;
+            s1.Name = "Shyam";              //reference type
             s3.display();
 
             Console.WriteLine("No. of students: " + Student.count);
