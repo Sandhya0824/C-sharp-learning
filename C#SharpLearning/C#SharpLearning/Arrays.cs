@@ -34,5 +34,21 @@ namespace C_SharpLearning
                 Console.WriteLine();
             }
         }
+
+        public static void arrDeclaration(int[] a)
+        {
+            int[] a1 = new int[3];
+            int[,] a2 = new int[3, 4];
+            int[][] a3 = new int[3][];
+
+            int[][] a4 = new int[3][]
+            {
+                new int[] {2,3,4},
+                new int[] {2,3,4,5},
+                new int[] {2,3,4,6},
+            };
+
+
+        }
     }
 }
