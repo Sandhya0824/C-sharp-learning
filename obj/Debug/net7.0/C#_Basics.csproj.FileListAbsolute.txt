@@ -1,0 +1,30 @@
+C:\Users\AKU628\OneDrive - Maersk Group\Desktop\C#_Basics\C#_Basics\bin\Debug\net7.0\C#_Basics.exe
+C:\Users\AKU628\OneDrive - Maersk Group\Desktop\C#_Basics\C#_Basics\bin\Debug\net7.0\C#_Basics.deps.json
+C:\Users\AKU628\OneDrive - Maersk Group\Desktop\C#_Basics\C#_Basics\bin\Debug\net7.0\C#_Basics.runtimeconfig.json
+C:\Users\AKU628\OneDrive - Maersk Group\Desktop\C#_Basics\C#_Basics\bin\Debug\net7.0\C#_Basics.dll
+C:\Users\AKU628\OneDrive - Maersk Group\Desktop\C#_Basics\C#_Basics\bin\Debug\net7.0\C#_Basics.pdb
+C:\Users\AKU628\OneDrive - Maersk Group\Desktop\C#_Basics\C#_Basics\obj\Debug\net7.0\C#_Basics.csproj.AssemblyReference.cache
+C:\Users\AKU628\OneDrive - Maersk Group\Desktop\C#_Basics\C#_Basics\obj\Debug\net7.0\C#_Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKU628\OneDrive - Maersk Group\Desktop\C#_Basics\C#_Basics\obj\Debug\net7.0\C#_Basics.AssemblyInfoInputs.cache
+C:\Users\AKU628\OneDrive - Maersk Group\Desktop\C#_Basics\C#_Basics\obj\Debug\net7.0\C#_Basics.AssemblyInfo.cs
+C:\Users\AKU628\OneDrive - Maersk Group\Desktop\C#_Basics\C#_Basics\obj\Debug\net7.0\C#_Basics.csproj.CoreCompileInputs.cache
+C:\Users\AKU628\OneDrive - Maersk Group\Desktop\C#_Basics\C#_Basics\obj\Debug\net7.0\C#_Basics.dll
+C:\Users\AKU628\OneDrive - Maersk Group\Desktop\C#_Basics\C#_Basics\obj\Debug\net7.0\refint\C#_Basics.dll
+C:\Users\AKU628\OneDrive - Maersk Group\Desktop\C#_Basics\C#_Basics\obj\Debug\net7.0\C#_Basics.pdb
+C:\Users\AKU628\OneDrive - Maersk Group\Desktop\C#_Basics\C#_Basics\obj\Debug\net7.0\C#_Basics.genruntimeconfig.cache
+C:\Users\AKU628\OneDrive - Maersk Group\Desktop\C#_Basics\C#_Basics\obj\Debug\net7.0\ref\C#_Basics.dll
+C:\Dev\C#_Basics\C#_Basics\obj\Debug\net7.0\C#_Basics.csproj.AssemblyReference.cache
+C:\Dev\C#_Basics\C#_Basics\obj\Debug\net7.0\C#_Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C#_Basics\C#_Basics\obj\Debug\net7.0\C#_Basics.AssemblyInfoInputs.cache
+C:\Dev\C#_Basics\C#_Basics\obj\Debug\net7.0\C#_Basics.AssemblyInfo.cs
+C:\Dev\C#_Basics\C#_Basics\obj\Debug\net7.0\C#_Basics.csproj.CoreCompileInputs.cache
+C:\Dev\C#_Basics\C#_Basics\obj\Debug\net7.0\C#_Basics.dll
+C:\Dev\C#_Basics\C#_Basics\obj\Debug\net7.0\refint\C#_Basics.dll
+C:\Dev\C#_Basics\C#_Basics\obj\Debug\net7.0\C#_Basics.pdb
+C:\Dev\C#_Basics\C#_Basics\bin\Debug\net7.0\C#_Basics.exe
+C:\Dev\C#_Basics\C#_Basics\bin\Debug\net7.0\C#_Basics.deps.json
+C:\Dev\C#_Basics\C#_Basics\bin\Debug\net7.0\C#_Basics.runtimeconfig.json
+C:\Dev\C#_Basics\C#_Basics\bin\Debug\net7.0\C#_Basics.dll
+C:\Dev\C#_Basics\C#_Basics\bin\Debug\net7.0\C#_Basics.pdb
+C:\Dev\C#_Basics\C#_Basics\obj\Debug\net7.0\C#_Basics.genruntimeconfig.cache
+C:\Dev\C#_Basics\C#_Basics\obj\Debug\net7.0\ref\C#_Basics.dll
