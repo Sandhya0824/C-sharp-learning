@@ -6,7 +6,7 @@
     <RootNamespace>C_SharpLearning</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>C_SharpLearning.EnumPractice</StartupObject>
+    <StartupObject>C_SharpLearning.StructPractice</StartupObject>
   </PropertyGroup>
 
 </Project>
