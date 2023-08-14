@@ -22,7 +22,6 @@
             Name = name;
           
         }
-
        
         public Student(Student student)     //copy constructor
         {

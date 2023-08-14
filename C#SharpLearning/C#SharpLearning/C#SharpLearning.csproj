@@ -6,7 +6,7 @@
     <RootNamespace>C_SharpLearning</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>C_SharpLearning.Aggregation</StartupObject>
+    <StartupObject>C_SharpLearning.SealedClass</StartupObject>
   </PropertyGroup>
 
 </Project>

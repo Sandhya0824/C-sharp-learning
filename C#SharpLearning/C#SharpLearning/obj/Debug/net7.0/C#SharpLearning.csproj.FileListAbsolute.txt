@@ -3,7 +3,6 @@ C:\GitHub\Interns.Maersk.Git\C-sharp-learning\C#SharpLearning\C#SharpLearning\bi
 C:\GitHub\Interns.Maersk.Git\C-sharp-learning\C#SharpLearning\C#SharpLearning\bin\Debug\net7.0\C#SharpLearning.runtimeconfig.json
 C:\GitHub\Interns.Maersk.Git\C-sharp-learning\C#SharpLearning\C#SharpLearning\bin\Debug\net7.0\C#SharpLearning.dll
 C:\GitHub\Interns.Maersk.Git\C-sharp-learning\C#SharpLearning\C#SharpLearning\bin\Debug\net7.0\C#SharpLearning.pdb
-C:\GitHub\Interns.Maersk.Git\C-sharp-learning\C#SharpLearning\C#SharpLearning\obj\Debug\net7.0\C#SharpLearning.csproj.AssemblyReference.cache
 C:\GitHub\Interns.Maersk.Git\C-sharp-learning\C#SharpLearning\C#SharpLearning\obj\Debug\net7.0\C#SharpLearning.GeneratedMSBuildEditorConfig.editorconfig
 C:\GitHub\Interns.Maersk.Git\C-sharp-learning\C#SharpLearning\C#SharpLearning\obj\Debug\net7.0\C#SharpLearning.AssemblyInfoInputs.cache
 C:\GitHub\Interns.Maersk.Git\C-sharp-learning\C#SharpLearning\C#SharpLearning\obj\Debug\net7.0\C#SharpLearning.AssemblyInfo.cs
