@@ -23,9 +23,7 @@ namespace PracticeCode
         {
             Console.WriteLine(accno + " " + name);
         }
-    }
-    class TestAccount
-    {
+    
         public static void Main(string[] args)
         {
             CountingWithStatic a1 = new CountingWithStatic(1001, "Sandhya");
