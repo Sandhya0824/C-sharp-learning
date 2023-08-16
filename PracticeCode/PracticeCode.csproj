@@ -5,7 +5,7 @@
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>PracticeCode.EnumExample</StartupObject>
+    <StartupObject>PracticeCode.Inheritance</StartupObject>
   </PropertyGroup>
 
 </Project>
