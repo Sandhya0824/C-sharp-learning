@@ -8,7 +8,7 @@ namespace PracticeCode
 {
     public class EnumExample
     {
-        public enum Days {Sun, Mon, Tue, Wed, Thurs, Fri, Sat , p= 1, g=2};
+        public enum Days {Sun, Mon, Tue, Wed, Thurs, Fri, Sat};
 
         static void Main(string[] args)
         {
