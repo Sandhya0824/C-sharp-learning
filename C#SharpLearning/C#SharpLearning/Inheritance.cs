@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace C_SharpLearning
 {
     //Super/Base Class
-    class Human
+    public class Human
     {
         public void Eat()
         {
