@@ -10,10 +10,15 @@ namespace C_SharpLearning
     {
         public static void Main(string[] args)
         {
+            StringInterpolation();
+        }
+
+        public static void ContainsMethod()
+        {
             String str = "Geeks for Geeks";
             Console.WriteLine(str.Contains('f'));
             Console.WriteLine(str.Contains("for"));
-            Console.WriteLine(str.Contains('F',StringComparison.OrdinalIgnoreCase));
+            Console.WriteLine(str.Contains('F', StringComparison.OrdinalIgnoreCase));
         }
 
         public static void ReplaceMethod()
@@ -73,8 +78,8 @@ namespace C_SharpLearning
         public static void StringInterpolation()
         {
             string name = "Ram";
-            int i = 9;
-            string msg = $"Welcome {name} {i}";
+            float i = 9.8674232f;
+            string msg = $"Welcome {name} {i} {DateTime.Now}";
             Console.WriteLine(msg);
         }
 
