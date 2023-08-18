@@ -8,8 +8,8 @@ using third;
 
 //public -- anywhere
 //protected -- containing subclasses but values can't be modified
-//internal -- anywhere inside the same namespace acts as a default access mofifier
-//protected internal -- same namespace
+//internal -- anywhere inside the same assembly(atomic unit of .NET) 
+//protected internal -- same assembly and derived class
 //private -- same class
 //private protected -- same class and derived classes
 namespace C_SharpLearning
@@ -106,10 +106,9 @@ namespace fourth
     {
         public static void main(string[] args)
         {
-            Geeks_3 geeks_3 = new Geeks_3();        //???
+            Geeks_3 geeks_3 = new Geeks_3();        
             geeks_3.display();
         }
-
     }
 }
 

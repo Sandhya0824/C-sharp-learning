@@ -10,7 +10,26 @@ namespace C_SharpLearning
     {
         public static void Main(string[] args)
         {
-            StringInterpolation();
+            String str1 = "     Hello";
+            Console.WriteLine(str1.Trim());
+
+            String str2 = "12312hcbdcsk3121";
+            Console.WriteLine(str2.Trim('2','1','3'));
+
+            String str3 = "    Geeks123";
+            char[] c = { '1', '2', '3' };
+            Console.WriteLine(str3.Trim(c));
+        }
+
+        public static void JoinMethod()
+        {
+            String[] str1 = { "Hello", "How", "Are" };
+            string str2 = string.Join("", str1);
+            Console.WriteLine(str2);
+
+            String[] str3 = { "She", "is", "a", "very", "beautiful", "lady", "from", "Copehegan" };
+            string str4 = string.Join(" ", str3, 2, 4);   //index to index+1
+            Console.WriteLine(str4);
         }
 
         public static void ContainsMethod()
