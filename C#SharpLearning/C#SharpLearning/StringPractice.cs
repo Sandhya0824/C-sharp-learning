@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -10,11 +11,130 @@ namespace C_SharpLearning
     {
         public static void Main(string[] args)
         {
+            LastIndexOfMethod();
+            
+        }
+        
+        public static void LastIndexOfMethod()
+        {
+            String str1 = "Hello! Beautiful Lady Bug";
+
+            char[] c = new char[] { 'a', 'b' };
+
+            Console.WriteLine(str1.LastIndexOf('B'));
+            Console.WriteLine(str1.LastIndexOf('b'));
+            Console.WriteLine(str1.LastIndexOf("beautiful", 2,10, StringComparison.CurrentCultureIgnoreCase));
+            Console.WriteLine(str1.LastIndexOf('B', 9, 3));
+            Console.WriteLine(str1.LastIndexOf('B', 5));
+            Console.WriteLine(str1.LastIndexOf("Lady"));
+            Console.WriteLine(str1.LastIndexOf("Men"));
+
+            Console.WriteLine(str1.LastIndexOfAny(c));  //first index of any element present in the char array
+        }
+        public static void ToCharArrrayMethod()
+        {
+            string str1 = "DanceIndiaDance";
+            char[] charArray = str1.ToCharArray();
+
+            foreach (char c in charArray)
+            {
+                Console.Write(c);
+            }
+            Console.WriteLine();
+
+            string str2 = "HelloLuffyTheJoyBoy";
+            char[] charArray1 = str2.ToCharArray(3, 7);
+
+            foreach (char c in charArray1)
+            {
+                Console.Write(c);
+            }
+        }
+
+        public static void StartsWith()
+        {
+            String str1 = "GeeksForgeeks";
+
+            Console.WriteLine(str1.StartsWith("Geeks"));
+            Console.WriteLine(str1.StartsWith("geeks"));
+            Console.WriteLine(str1.StartsWith("Geeks", false, CultureInfo.InvariantCulture));   //independent of culture not associated with any region or country always English
+            Console.WriteLine(str1.StartsWith("Geeks", StringComparison.CurrentCulture));  //dependent on culture where the application is accessed may be Germany,French
+        }
+
+        public static void PaddingMethods()
+        {
+            string str1 = "Hello Luffy";
+            Console.WriteLine(str1.PadLeft(15));
+            Console.WriteLine(str1.PadLeft(15, '*'));
+
+            Console.WriteLine(str1.PadRight(15));
+            Console.WriteLine(str1.PadRight(15, '*'));
+        }
+
+        public static void UpperLowerCasing()
+        {
+            string str1 = "HelloLady";
+            Console.WriteLine(str1.ToUpper());
+            Console.WriteLine(str1.ToLower());
+
+            String str2 = "HELLOLADY";
+            Console.WriteLine(str2.ToUpper());
+            Console.WriteLine(str2.ToLower());
+
+            string str3 = "hellolady";
+            Console.WriteLine(str3.ToUpper());
+            Console.WriteLine(str3.ToLower());
+
+            string str4 = "hello@Lady";
+            Console.WriteLine(str4.ToUpper());
+            Console.WriteLine(str4.ToLower());
+        }
+
+        public static void RemoveMethod()
+        {
+            string str1 = "ILoveMyIndia";
+            Console.WriteLine(str1.Remove(0));
+            Console.WriteLine(str1.Remove(1, 3));
+            Console.WriteLine(str1);
+
+            StringBuilder sb = new StringBuilder("helloladyqueen");
+            Console.WriteLine(sb.Remove(3, 6));
+            Console.WriteLine(sb);
+        }
+
+        public static void IndexOfMethod()
+        {
+            String str1 = "Hello! Beautiful Lady";
+
+            char[] c = new char[] { 'a', 'b' };
+
+            Console.WriteLine(str1.IndexOf('B'));
+            Console.WriteLine(str1.IndexOf('b'));
+            Console.WriteLine(str1.IndexOf('B', 9));
+            Console.WriteLine(str1.IndexOf('B', 5, 8));
+            Console.WriteLine(str1.IndexOf("Lady"));
+            Console.WriteLine(str1.IndexOf("Men"));
+
+            Console.WriteLine(str1.IndexOfAny(c));  //first index of any element present in the char array
+        }
+
+        public static void EndsWith()
+        {
+            String str1 = "GeeksForgeeks";
+
+            Console.WriteLine(str1.EndsWith("Geeks"));
+            Console.WriteLine(str1.EndsWith("geeks"));
+            Console.WriteLine(str1.EndsWith("Geeks",false,CultureInfo.InvariantCulture));   //independent of culture not associated with any region or country always English
+            Console.WriteLine(str1.EndsWith("Geeks",StringComparison.CurrentCulture));  //dependent on culture where the application is accessed may be Germany,French
+        }
+
+        public static void TrimMethod()
+        {
             String str1 = "     Hello";
             Console.WriteLine(str1.Trim());
 
             String str2 = "12312hcbdcsk3121";
-            Console.WriteLine(str2.Trim('2','1','3'));
+            Console.WriteLine(str2.Trim('2', '1', '3'));
 
             String str3 = "    Geeks123";
             char[] c = { '1', '2', '3' };
