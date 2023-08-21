@@ -11,10 +11,52 @@ namespace C_SharpLearning
     {
         public static void Main(string[] args)
         {
-            LastIndexOfMethod();
-            
+              
         }
-        
+
+        public static void StringFormatMethod()
+        {
+            //number formats
+            Console.WriteLine(String.Format("{0:n}", 657484934));   //thousand separator
+            Console.WriteLine(String.Format("{0:c}", 7359234));     //currency
+            Console.WriteLine(String.Format("{0:e}", 874098865));   //scientific
+            Console.WriteLine(String.Format("{0:f}", 1273981));     //fixed
+            Console.WriteLine(String.Format("{0:g}", 6348970231442));   //general
+
+            //custom format
+            Console.WriteLine("{0:00.00}", 1.3);    //zero placeholder
+            Console.WriteLine("{0:(#).##}", 1.258); //digit placeholder
+            Console.WriteLine("{0:(0).000}", 6329814094);    //decimal point
+            Console.WriteLine("{0:0,0}", 524327887);     //thousand separator
+            Console.WriteLine("{0:0%}", 452);     //percentage 
+
+            //date and time formats
+            DateTime dateTime = DateTime.Now;
+            Console.WriteLine("{0:D}", dateTime);   //long date
+            Console.WriteLine("{0:d}", dateTime);   //short date
+            Console.WriteLine("{0:T}", dateTime);   //long time
+            Console.WriteLine("{0:t}", dateTime);   //short time
+            Console.WriteLine("{0:f}", dateTime);   //long date time
+            Console.WriteLine("{0:g}", dateTime);   //short date time
+            Console.WriteLine("{0:M}", dateTime);   //short date
+            Console.WriteLine("{0:r}", dateTime);   //date time string
+            Console.WriteLine("{0:s}", dateTime);   //sortable date/time  
+            Console.WriteLine("{0:u}", dateTime);   //universal sortable date
+            Console.WriteLine("{0:U}", dateTime);   //universal full date
+            Console.WriteLine("{0:Y}", dateTime);   //month year
+
+            //numeric data
+            Console.WriteLine(string.Format("Number: {0:N}", 157)); //decimal format
+            Console.WriteLine(string.Format("{0:D}  {1,6:D}", 634, 868)); //
+            Console.WriteLine(string.Format("{0,10}", 1));  //right padding
+            Console.WriteLine(string.Format("{0,-10} {1}", 1, 4523321)); //left padding
+            Console.WriteLine(string.Format("Scientific: {0:E}", 157)); //exponent notation
+            Console.WriteLine(string.Format("Currency: {0:C}", 157, CultureInfo.CurrentCulture));   //currency    
+            Console.WriteLine(string.Format("Percent: {0:P}", 157));    //percent
+            Console.WriteLine(string.Format("Hexadecimal: {0:X}", 157));    //hexadecimal
+        }
+
+
         public static void LastIndexOfMethod()
         {
             String str1 = "Hello! Beautiful Lady Bug";
@@ -23,7 +65,7 @@ namespace C_SharpLearning
 
             Console.WriteLine(str1.LastIndexOf('B'));
             Console.WriteLine(str1.LastIndexOf('b'));
-            Console.WriteLine(str1.LastIndexOf("beautiful", 2,10, StringComparison.CurrentCultureIgnoreCase));
+        // ??   Console.WriteLine(str1.LastIndexOf("beautiful", 2,10, StringComparison.CurrentCultureIgnoreCase));
             Console.WriteLine(str1.LastIndexOf('B', 9, 3));
             Console.WriteLine(str1.LastIndexOf('B', 5));
             Console.WriteLine(str1.LastIndexOf("Lady"));
@@ -239,11 +281,6 @@ namespace C_SharpLearning
             Console.WriteLine(sb3);
 
             Console.WriteLine(sb1.ToString());                  //converting stringbuilder ---> string
-        }
-
-        public static void StringFormat()
-        {
-
         }
 
         public static void StringOperators()
