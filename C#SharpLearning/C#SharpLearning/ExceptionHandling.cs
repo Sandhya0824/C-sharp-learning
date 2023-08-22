@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace C_SharpLearning
 {
-    class AboveThreshold : Exception
+    class AboveThreshold : Exception            //User Defined Exception
     {
         public AboveThreshold() 
         {
@@ -19,8 +19,20 @@ namespace C_SharpLearning
         public static void Main(string[] args)
         {
             ExceptionHandling e=new ExceptionHandling();
-            e.CheckThreshold(25);
-            e.CheckThreshold(60);   
+            //e.CheckThreshold(25);
+            //e.CheckThreshold(60);   
+
+            checked
+            {
+                int n1 = int.MaxValue;
+                //Console.WriteLine(n1+2);    //explicitly checks at compile time
+            }
+
+            unchecked
+            {
+                int n1 = int.MaxValue;
+                Console.WriteLine(n1 + 2);    //explicitly does not checks and produces wrong results
+            }
         }
 
         public void CheckThreshold(int value)
