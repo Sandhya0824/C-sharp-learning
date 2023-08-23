@@ -11,7 +11,8 @@ namespace C_SharpLearning
     {
         public static void Main(string[] args)
         {
-              
+            string str = "hello";
+            Console.WriteLine(str.c);
         }
 
         public static void StringFormatMethod()
